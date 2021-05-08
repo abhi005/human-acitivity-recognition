@@ -1,5 +1,5 @@
 # Human Acitivty Recognition
-AN RNN based approach to recognize and classify the human activity recognition
+A RNN based approach to recognize and classify the human activity recognition
 
 # 1. Introcution
 A Recurrent Neural Network (RNN) is a type of neural network that contains loops, allowing information to be stored within the network. In short, Recurrent Neural Networks use their reasoning from previous experiences to inform the upcoming events. Recurrent models are valuable in their ability to sequence vectors, which opens up the API to performing more complicated tasks. 
